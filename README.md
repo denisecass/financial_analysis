@@ -1,4 +1,4 @@
-# Sheet 1: Revenue Analysis -
+# Sheet 1: Revenue Analysis
 In Financial Data Analysis, Revenue Analysis speaks primarily to understanding which product(s) generate the most revenues and whether we can identify any aspect of seasonality towards these trends or not. The importance of this is that we are able to clearly understand which product(s) generate the most revenues and least revenues and this forms the first part of our puzzle. If a product generates a lot of revenues, but the expenses are greater than the revenues - this isn't a good news story. However, if the product generates a lot of revenues, and the expenses are well below the revenues - we may have a product which is performing well. Let's take a look at how Southern Water Corps Revenue Analysis looks like by calculating the Revenues for each of the products and asking ourselves - what does the data tell us?
 
 Q1. For each of the three Southern Water Corp. Desalination Plants, they produce desalinated water which is then consumed via private, public or residential usage. Calculate the monthly revenues for Kootha, Surjek and Jutik and put this in the table below. What trends are you able to pick up?
@@ -10,7 +10,7 @@ In the previous exercise we've picked up some trends from observing the monthly 
 
 Q3. Calculate the overall % contribution of each customer segment for each of the three (3) units listed below and create a stacked column chart showing the contributions that each customer segment provides per unit. 
 
-# Sheet 2: Expense Analysis -
+# Sheet 2: Expense Analysis
 In Financial Data Analysis, Expense Analysis speaks primarily to understanding which product(s) are the most expensive to operate and maintain. Think about this as your personal budget; You want to know exactly where your money is being spent. As we mentioned in the last section; we've calculated the revenues and know which of our products generate the most revenues at a Unit Level (Kootha, Surjek, Jutik). It is equally important for us to understand what is our expenses at a unit level. If our expenses outweigh our revenues - this is not a good outcome. If a product generates a lot of revenues, but the expenses are greater than the revenues - this isn't a good news story. Now let's take a look at how Southern Water Corps Expenses look like by calculating the Expenses for each of the Units and asking ourselves - what does the data tell us?						Note: You may notice some trends with respect to higher costs for those units which produce a specific type of water. 	
 
 Q4. For each of the three Southern Water Corp. Desalination Plants, they produce desalinated water which is then consumed via private, public or residential usage. These costs are then aggregated at a Unit Level, separated into Chemical Costs, Facility Costs, Operational Maintenance Costs and Labour Costs. Calculate the monthly expenses for Kootha, Surjek and Jutik and put this in the table below. What trends are you able to pick up from completing the table below? 
@@ -28,7 +28,7 @@ We've analysed the expenses data and we have a few questions. The costs for two 
 
 Q7. For each of the three units (Kootha, Surjek, Jutik), complete the table below that will show the monthly water production for each Unit as well as the monthly chemical expenditure. Once the table is complete, using a combo-chart, does there appear to be any relationship between the Chemical Expenditure and Water Production? 
 
-# Sheet 3: EBIT Analysis - 
+# Sheet 3: EBIT Analysis 
 In Financial Data Analysis, EBIT Analysis, also known as Profitability Analysis, speaks primarily to understanding which product(s) are the most cashflow positive. We're now at the final stage of the puzzle (Woo!); We've got the Revenues. We've got the Expenses. All that is now left is the EBIT and we're done! Once we subtract our Expenses from our Revenues - we can find out how financially sound Southern Water Corp's Units actually are. Let's take one final look at Southern Water Corp's Data for the 2013 - 2014 Period and find out just how profitable the Unit(s) actually are. Additionally, we'll explore how we can use Ratio's to help us show which Unit(s) are most cost-effective from a Revenue to Expenses perspective.
 EBIT can be simply calculated as Revenues - COGS - Operating Expenses. In the Southern Water Corp. Case Study, we have opted to wrap up our COGS as part of our overall Expenses to simplify the calculation for you. Hence, the EBIT you will calculate will simply be: Revenues - Operating Expenses.
 
